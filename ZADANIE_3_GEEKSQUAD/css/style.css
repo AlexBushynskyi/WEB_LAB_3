@@ -1,0 +1,36 @@
+body {
+	background-image: url(../img/body-bg.png);
+	background-repeat: repeat-x;
+	text-align: center;
+}
+
+.header {
+	margin-top: 33px;
+	margin-bottom: 20px;
+}
+
+.menu {
+	width: 952px;
+	margin: auto;
+	overflow: hidden;
+	border-bottom: 3px solid #D1DEE5;
+}
+
+.item_menu {
+	float: left;
+	height: 30px;
+	background-color: #F3F6F8;
+	margin-right: 4px;
+	padding-top: -5px;
+}
+#first_item {
+	background-color: #D1DEE5;
+}
+
+p {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 6px;
+	font-family: Arial;
+	font-size: 13pt;
+}
