@@ -1,0 +1,45 @@
+body {
+	background-color: #E7CBC4;
+	margin: 50px 50px;
+}
+table tr td {
+	text-align: center;
+	font-family: tahoma;
+	font-size: 12px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid grey;
+	width: 210px;
+	height: 45px;
+}
+.black {
+	background: #2C3438;
+	color: white;
+	font-weight: bold;
+}
+
+.red {
+	background: #E56352;
+	color: white;
+	text-align: center;
+}
+
+.white {
+	background: #ECECEC;
+	color: black;
+}
+
+.first_cell {
+	border-top: none;
+	border-left: none;
+}
+
+.buttons {
+	width: 90px;
+	height: 30px;
+}
