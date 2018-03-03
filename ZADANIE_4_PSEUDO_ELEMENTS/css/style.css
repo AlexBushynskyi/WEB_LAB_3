@@ -1,0 +1,120 @@
+body {
+	background-color: #423532;
+}
+
+.parent {
+	background-color: white;
+	width: 850px;
+	height: 400px;
+	margin: auto;
+}
+
+img {
+	width: 320px;
+}
+
+.image {
+	width: 320px;
+	float: left;
+}
+
+.black_kube {
+	width: 325px;
+	height: 230px;
+	background-color: black;
+	position: relative;
+	top: -260px;
+	left: -10px;
+	text-align: center;
+	line-height: 0px;
+	padding-top: 5px;
+}
+
+#burger_italian {
+	color: white;
+	font-family: times new roman;
+	font-size: 36pt;
+	font-weight: bold;
+}
+
+#money {
+	color: white;
+	font-family: tahoma;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+#yellow {
+	color: yellow;
+}
+
+.menu {
+	width: 500px;
+	float: right;
+	margin: auto;
+}
+
+.header_item {
+	width: 500px;
+	text-align: center;
+}
+
+#moment {
+	font-family: times new roman;
+	font-size: 16pt;
+	margin: 50px 0 50px 0;
+}
+
+.parent_menu_item {
+	margin-left: 5px;
+	margin-right: 35px;
+	overflow: hidden;
+}
+
+.row {
+	width: 200px;
+	height: 80px;
+	text-align: center;
+}
+
+div.row:after {
+	color: #9C9C9C;
+	position: relative;
+	content: "–—————♦—————–";
+}
+
+#float_right {
+	float: right;
+}
+
+#float_left {
+	float: left;
+}
+
+#menu_item_text_1 {
+	font-family: times new roman;
+	font-size: 16pt;
+	line-height: 0px;
+}
+
+#menu_item_text_2 {
+	font-family: tahoma;
+	font-size: 14pt;
+	line-height: 0px;
+	color: #9C9C9C;
+}
+
+.knopka_down {
+	width: 850px;
+	margin: auto;
+}
+
+.knopka_all {
+	width: 150px;
+	height: 50px;
+	background-color: black;
+	float: right;
+	text-align: center;
+	margin-top: 10px;
+}
+
