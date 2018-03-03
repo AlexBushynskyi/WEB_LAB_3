@@ -116,5 +116,8 @@ div.row:after {
 	float: right;
 	text-align: center;
 	margin-top: 10px;
+	user-select: none;
 }
-
+div.knopka_all:active {
+	background-color: grey;
+}
