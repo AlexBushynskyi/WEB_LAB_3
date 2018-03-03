@@ -1,0 +1,33 @@
+.color_1 {
+	background: #A3CEE9;
+	color: white;
+}
+
+.color_2 {
+	background: #D3E7F4;
+}
+
+.width_high {
+	width: 170px;
+}
+
+.width_low {
+	width: 110px;
+}
+
+.padding {
+	padding-left: 20px;
+	text-align: left;
+}
+
+.center {
+	text-align: center;
+}
+
+tr {
+	height: 50px;
+}
+
+table {
+	font-family: tahoma;
+}

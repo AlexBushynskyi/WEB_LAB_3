@@ -1,0 +1,60 @@
+.table_69 {
+	border-collapse: collapse;
+	border-left: 2px solid #A02F22;
+	border-right: 2px solid #A02F22;
+	border-top: 2px solid #A02F22;
+	border-bottom: 5px solid #A02F22;
+	font-family: tahoma;
+}
+
+.basic_69 {
+	font-weight:bold;
+	font-size: 24pt;
+	padding: 10px 0;
+	color: white;
+	text-align: center;
+	background: #C1392B;	
+}
+
+.medium_69 {
+	background: #C1392B;
+	font-size: 18pt;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	color: white;
+	text-align: center;
+	border-bottom: 5px solid #A02F22;
+}
+
+.white_line_69 {
+	color: grey;
+	background: white;
+	text-align: center;
+	padding: 5px 0;
+	font-size: 12pt;
+}
+
+.padding_top_69 {
+	padding-top: 20px;
+}
+
+.padding_bottom_69 {
+	padding-bottom: 30px;
+	border-bottom: 2px dotted #A02F22;
+
+}
+
+.sign_up_69 {
+	text-align: center;
+	padding: 25px 0;
+}
+
+.sign_up_but_69 {
+	width: 120px;
+	height: 50px;
+	background: #C1392B;
+	color: white;
+	font-size: 12pt;
+	user-select: none;
+	text-decoration: none;
+}

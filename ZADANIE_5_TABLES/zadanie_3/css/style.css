@@ -1,0 +1,60 @@
+table {
+	border-collapse: collapse;
+	border-left: 4px solid #DDDDDD;
+	border-right: 4px solid #DDDDDD;
+	border-top: 4px solid #67CB71;
+	border-bottom: 4px solid #67CB71;
+	font-family: tahoma;
+}
+td {
+	width: 270px;
+}
+
+.basic {
+	font-weight:bold;
+	font-size: 24pt;
+	padding: 30px 0;
+	color: #67CB71;
+	text-align: center;	
+}
+
+.price_99 {
+	font-weight:bold;
+	background: #67CB71;
+	font-size: 24pt;
+	padding: 10px 0;
+	color: white;
+	text-align: center;
+}
+
+.grey_line {
+	color: grey;
+	background: #F7F7F7;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 12pt;
+}
+
+.white_line {
+	color: grey;
+	background: white;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 12pt;
+}
+
+.purchase {
+	text-align: center;
+	padding: 40px 0;
+}
+
+.purchase_but {
+	border: 3px solid #67CB71;
+	width: 95px;
+	height: 40px;
+	background: white;
+	border-radius: 5px;
+	font-weight:bold;
+	color: #67CB71;
+	font-size: 13pt;
+}

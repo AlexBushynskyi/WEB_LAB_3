@@ -1,0 +1,30 @@
+tr {
+	height: 20px;
+}
+
+td, tr, table {
+	border: 2px solid black;
+}
+
+table {
+	font-family: tahoma;
+	border-collapse: collapse;
+}
+
+.header {
+	background: #81B522;
+	color: white;
+	text-align: center;
+}
+
+td:nth-child(n+1):nth-child(-n+7) {
+	padding-right: 30px;
+}
+
+td:nth-child(2n+1) {
+	background: #F0FFD3;
+}
+
+td:nth-child(2n) {
+	background: #E5FFB9;
+}

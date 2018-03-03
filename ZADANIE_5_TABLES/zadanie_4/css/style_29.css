@@ -1,0 +1,60 @@
+.table_29 {
+	border-collapse: collapse;
+	border-left: 2px solid #CE8105;
+	border-right: 2px solid #CE8105;
+	border-top: 2px solid #CE8105;
+	border-bottom: 5px solid #CE8105ff;
+	font-family: tahoma;
+}
+
+.basic_29 {
+	font-weight:bold;
+	font-size: 24pt;
+	padding: 10px 0;
+	color: white;
+	text-align: center;
+	background: #F39C11	
+}
+
+.small_29 {
+	background: #F39C11;
+	font-size: 18pt;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	color: white;
+	text-align: center;
+	border-bottom: 5px solid #CE8105ff;
+}
+
+.white_line_29 {
+	color: grey;
+	background: white;
+	text-align: center;
+	padding: 5px 0;
+	font-size: 12pt;
+}
+
+.padding_top_29 {
+	padding-top: 20px;
+}
+
+.padding_bottom_29 {
+	padding-bottom: 30px;
+	border-bottom: 2px dotted #CE8105ff;
+
+}
+
+.sign_up_29 {
+	text-align: center;
+	padding: 25px 0;
+}
+
+.sign_up_but_29 {
+	width: 120px;
+	height: 50px;
+	background: #F39C11;
+	color: white;
+	font-size: 12pt;
+	user-select: none;
+	text-decoration: none;
+}
