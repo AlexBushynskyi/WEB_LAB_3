@@ -14,32 +14,40 @@ table {
 
 td {
 	border: 1px solid grey;
-	width: 210px;
-	height: 45px;
+	width: 220px;
+	height: 55px;
 }
 .black {
-	background: #2C3438;
+	background: linear-gradient(to top, #2F383A, #272F33);
 	color: white;
 	font-weight: bold;
+	border: 1px solid #1A2023;
 }
 
 .red {
-	background: #E56352;
+	background: linear-gradient(to top, #DC5949, #EB6A58);
 	color: white;
 	text-align: center;
+	border-top: 1px solid #DC5949;
+	border-bottom: 1px solid #EB6A58;
+	border-left: 1px solid #EB6A58;
+	border-right: 1px solid #EB6A58;
 }
 
 .white {
-	background: #ECECEC;
+	background: linear-gradient(to top, #F0F0F0, #EAEAE9);
 	color: black;
+	border: 2px solid #DCDCDC;
 }
 
 .first_cell {
-	border-top: none;
-	border-left: none;
+	border: none;
 }
 
 .buttons {
 	width: 90px;
-	height: 30px;
+	height: 35px;
+	border-radius: 5px;
+	outline: none;
+	text-decoration: none;
 }
