@@ -1,0 +1,50 @@
+@font-face {
+    font-family: trebuc;
+    src: url(../font/trebuc.ttf);
+}
+
+table {
+	border: 2px solid white;
+	font-family: trebuc;
+}
+
+td, div {
+	width: 140px;
+	height: 50px;
+	text-align: center;
+}
+
+div {
+	line-height: 50px;
+	font-weight: bold;
+	color: white;
+}
+
+.green_bottom_top {
+	border-radius: 7px 7px 0 0;
+	background: linear-gradient(to top, #7AC041, #9DD828);
+	border-bottom: 3px solid #9DD828;
+}
+
+.green_right_left {
+	border-radius: 7px 0 0 7px;
+	background: linear-gradient(to left, #7AC041, #9DD828);
+	border-right: 3px solid #9DD828;
+}
+
+.other_td {
+	background: #DDF3CC;
+	color: grey;
+
+}
+
+.price {
+	font-size: 24pt;
+	color: #9DD828;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px black;
+}
+
+.price_per_to_month {
+	color: grey;
+}
