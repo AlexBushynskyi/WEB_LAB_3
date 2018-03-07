@@ -23,7 +23,8 @@ body {
 
 #text_casio {
 	text-align: right;
-	padding: 7.5px 20px;
+	line-height: 40px;
+	padding: 0 20px;
 	font-size: 18px;
 	color: white;
 }
@@ -81,5 +82,6 @@ body {
 	text-align: center;
 	color: #6E9C9E;
 	font-size: 24px;
-	margin: 10.5px 0;
+	margin: 0;
+	line-height: 55px;
 }
